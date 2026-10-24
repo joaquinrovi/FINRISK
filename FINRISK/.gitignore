@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+data/privados/**
+!data/privados/.gitkeep
+!data/privados/README.md
